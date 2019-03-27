@@ -1,0 +1,22 @@
+{
+  "name": "leeroy-jenkins-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeroy-jenkins-team/leeroy-jenkins-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeroy-jenkins-team/leeroy-jenkins-web/issues"
+  },
+  "homepage": "https://github.com/leeroy-jenkins-team/leeroy-jenkins-web#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
